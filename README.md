@@ -1,4 +1,4 @@
-# P3_RAG
+# Data Job
  **RAG system for job recommandation based on CV**
 
 this project use a pdf loader to take a cv, then the cv will be embedded through huggin face sentence transformers.
